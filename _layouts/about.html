@@ -53,6 +53,10 @@ layout: default
             <!-- Awards and honors -->
             {%- include awards.html %}
           {%- endif %}
+          {% if page.scholarships -%}
+            <!-- Scholarships -->
+            {%- include scholarships.html %}
+          {%- endif %}
           {%- if page.social %}
           <!-- Social -->
           <div class="social">
