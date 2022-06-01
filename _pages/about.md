@@ -32,4 +32,4 @@ More details to be added...
 
 <br />
 
-Fun facts: my full name is **Yawen /jǎːwə́n/ Guan /kʷǣn/**. Many of my Chinese friends prefer to call me by my last name, and then gradually they call me **Gwen** ;D Feel free to call me by either name!
+Fun fact: my full name is **Yawen /jǎːwə́n/ Guan /kʷǣn/**. Many of my Chinese friends prefer to call me by my last name, then gradually they call me **Gwen** ;D Feel free to call me by either name!
