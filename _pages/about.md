@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a> to be added.
 
 profile:
   align: right
@@ -22,9 +22,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 Just a simple person who is interested in PL/FM.
 
-
 <br />
-
 
 <br />
 
@@ -32,8 +30,6 @@ More details to be added...
 
 <br />
 
-
 <br />
-
 
 Fun facts: my full name is **Yawen /jǎːwə́n/ Guan /kʷǣn/**. Many of my Chinese friends prefer to call me by my last name, and then gradually they call me **Gwen** ;D Feel free to call me by either name!
