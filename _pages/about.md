@@ -20,13 +20,7 @@ awards: true # includes awards and honors
 scholarships: true # include scholarships
 social: false  # includes social icons at the bottom of the page
 ---
-Just a simple person who is interested in PL/FM.
-
-<br />
-
-<br />
-
-More details to be added...
+Hello! I am a first-year PhD student in Computer and Communication Sciences ([EDIC](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/)) at [EPFL](https://www.epfl.ch/en/). My interests lie in programming languages, formal methods and software engineering. I'm currently doing my semester project at [LAMP](https://www.epfl.ch/labs/lamp/).
 
 <br />
 
